@@ -1,0 +1,13 @@
+
+m	java:S106%"+Replace this use of System.out by a logger.(Ÿ‘Æı8Ã‰˜…„2J$71fd0c35-eb2c-4b4f-97e1-727523bb30b8
+r	java:S106'"+Replace this use of System.out by a logger.(£ ë“úÿÿÿÿ8Ã‰˜…„2J$91756b38-6694-4e86-b50b-bdefb7b75034
+^
+java:S1128"<Remove this unused import 'javax.net.ssl.KeyManagerFactory'.(ÓûòŒÿÿÿÿÿ8‹š…„2
+R
+java:S1128"5Remove this unused import 'javax.net.ssl.SSLContext'.(ˆœ¤ë8‹š…„2
+[
+java:S1128">Remove this unused import 'javax.net.ssl.TrustManagerFactory'.(×»8‹š…„2
+Q
+java:S1128	"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8‹š…„2
+O
+java:S1128"3Remove this unused import 'java.security.KeyStore'.(ïººW8‹š…„2
